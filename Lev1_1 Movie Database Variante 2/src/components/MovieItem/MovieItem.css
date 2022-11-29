@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Card {
+    background-color: rgb(53, 53, 53);
+    color: white;
+    padding: 30px 10px;
+    width: 180px;
+    height: 250px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    margin: 5px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}

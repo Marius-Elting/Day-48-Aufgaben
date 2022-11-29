@@ -1,0 +1,15 @@
+img {
+    width: 100px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.promidiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
